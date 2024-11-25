@@ -1,0 +1,5 @@
+package com.fis.lab_three.repository;
+
+public class UserRepository {
+
+}

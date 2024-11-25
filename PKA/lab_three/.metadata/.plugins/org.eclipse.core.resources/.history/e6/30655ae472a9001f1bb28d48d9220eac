@@ -1,0 +1,5 @@
+package com.fis.lab_three.controller;
+
+public class UserController {
+
+}
